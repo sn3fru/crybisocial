@@ -4,6 +4,152 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
+      "title": "Marketing",
+      "formatVersion": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          39.75,
+          -341.75,
+          60
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Troque um Clipse por um Porche",
+          "id": 178
+        },
+        "2": {
+          "title": "Filmes sobre trocas ?",
+          "id": 179
+        },
+        "3": {
+          "title": "Programas Estilo History ?",
+          "id": 180
+        }
+      },
+      "id": 141
+    },
+    "2": {
+      "title": "Formas de Monetizar",
+      "formatVersion": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          222.25,
+          18.5,
+          53
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "B2C",
+          "formatVersion": 2,
+          "attr": {
+            "style": {},
+            "position": [
+              200.5,
+              -180.375,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Cobrar por noh",
+              "formatVersion": 2,
+              "attr": {
+                "style": {},
+                "position": [
+                  115.75,
+                  -31.125,
+                  2
+                ]
+              },
+              "ideas": {},
+              "id": 138
+            },
+            "3": {
+              "title": "Além disso pode ter um serviço extra de concerto, manutenção e limpeza. (basta uma simples tecnologia de filmagem na abertura dos pacotes). ",
+              "id": 190
+            },
+            "0.5": {
+              "title": "Versão premium pode realizar o escambo via plataforma, ou seja, as pessoas enviam os produtos que são conferidos pela plataforma e enviados aos destinatários.  Após atingir certo nível de confiabilidade ",
+              "id": 189,
+              "attr": {
+                "style": {},
+                "position": [
+                  19.5,
+                  -373.625,
+                  1
+                ]
+              }
+            }
+          },
+          "id": 137
+        },
+        "2": {
+          "title": "B2B",
+          "formatVersion": 2,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Inserir Produtos Fora de Linha dosGrandes Varejistas",
+              "formatVersion": 2,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 172
+            }
+          },
+          "id": 171
+        },
+        "3": {
+          "title": "free",
+          "id": 186,
+          "attr": {
+            "position": [
+              154.5,
+              267.25,
+              3
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Versao free entrega um \"caminho\" por dia para realizar trocas, versao paga permite consultas online (com máximo de distancia)! (grande oportunidade de agregar valor)",
+              "id": 187
+            }
+          }
+        }
+      },
+      "id": 136
+    },
+    "22": {
+      "title": "Mobile",
+      "id": 184,
+      "ideas": {
+        "1": {
+          "title": "App mobile, poucos cliques ",
+          "id": 185
+        },
+        "2": {
+          "title": "Recursos com a camera e com GPS.",
+          "id": 192
+        }
+      },
+      "attr": {
+        "position": [
+          262.25,
+          440.75,
+          59
+        ],
+        "style": {}
+      }
+    },
+    "32": {
       "title": "Lista de Desejos",
       "formatVersion": 2,
       "ideas": {
@@ -19,71 +165,8 @@
       },
       "id": 5,
       "attr": {
-        "style": {},
-        "position": [
-          337.75,
-          49.5,
-          24
-        ]
+        "style": {}
       }
-    },
-    "2": {
-      "title": "Formas de Monetizar",
-      "formatVersion": 2,
-      "attr": {
-        "style": {},
-        "position": [
-          180.25,
-          259.5,
-          23
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "B2C",
-          "formatVersion": 2,
-          "attr": {
-            "style": {}
-          },
-          "ideas": {
-            "1": {
-              "title": "Cobrar por nÃ³",
-              "formatVersion": 2,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {},
-              "id": 138
-            }
-          },
-          "id": 137
-        },
-        "2": {
-          "title": "B2B",
-          "formatVersion": 2,
-          "attr": {
-            "style": {},
-            "position": [
-              154.140672,
-              97.51756799999998,
-              1
-            ]
-          },
-          "ideas": {
-            "1": {
-              "title": "Inserir Produtos Fora de Linha dosGrandes Varejistas",
-              "formatVersion": 2,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {},
-              "id": 172
-            }
-          },
-          "id": 171
-        }
-      },
-      "id": 136
     },
     "-12": {
       "title": "Usuarios",
@@ -95,9 +178,9 @@
           "attr": {
             "style": {},
             "position": [
-              123.20934399999987,
-              -84.93465600000013,
-              4
+              143.5,
+              -237,
+              11
             ]
           },
           "ideas": {
@@ -119,9 +202,9 @@
           "attr": {
             "style": {},
             "position": [
-              162.61804800000027,
-              -6.2914559999999256,
-              3
+              303.25,
+              -12.5,
+              10
             ]
           },
           "ideas": {
@@ -129,7 +212,12 @@
               "title": "Serviços",
               "formatVersion": 2,
               "attr": {
-                "style": {}
+                "style": {},
+                "position": [
+                  167.75,
+                  -145,
+                  2
+                ]
               },
               "ideas": {},
               "id": 144
@@ -150,6 +238,24 @@
                   "title": "Misto",
                   "id": 177
                 }
+              },
+              "attr": {
+                "position": [
+                  160,
+                  115,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Lojas",
+              "id": 182,
+              "ideas": {
+                "1": {
+                  "title": "As pessoas podem criar \"lojas\" dentro do App, os outros podem barganhar ",
+                  "id": 183
+                }
               }
             }
           },
@@ -161,9 +267,9 @@
           "attr": {
             "style": {},
             "position": [
-              58.15743999999995,
-              165.67500799999993,
-              5
+              97,
+              353.75,
+              8
             ]
           },
           "ideas": {
@@ -171,7 +277,12 @@
               "title": "Indices",
               "formatVersion": 2,
               "attr": {
-                "style": {}
+                "style": {},
+                "position": [
+                  109,
+                  -152.5,
+                  1
+                ]
               },
               "ideas": {
                 "1": {
@@ -212,19 +323,53 @@
             }
           },
           "id": 151
+        },
+        "12.5": {
+          "title": "Exigência de CPF é importante para usar mesmo o serviço free. Mandar um documentos para serviços premium (risco moral) ",
+          "id": 191,
+          "attr": {
+            "style": {}
+          }
         }
       },
       "id": 142,
       "attr": {
         "style": {},
         "position": [
-          189,
-          253,
-          20
+          246.5,
+          4.25,
+          45
         ]
       }
     },
-    "0.75": {
+    "-3": {
+      "title": "Teoria dos Grafos",
+      "formatVersion": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          64,
+          -321.75,
+          58
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "O diâmetro da esfera seria o quanto o user é confiável através do rating dele. E a cor da esfera variando em. Algum espectro de contraste indicaria a distância (ou a própria distância dos vértices que podem ser plotados sobre o mapa e a cor significaria a reputação e o tamanho significaria  o volume de negócios, provavelmente altamente correlacionados. ",
+          "id": 188,
+          "attr": {
+            "style": {},
+            "position": [
+              100.75,
+              -482.5,
+              1
+            ]
+          }
+        }
+      },
+      "id": 139
+    },
+    "-22": {
       "title": "Produtos Oferecidos",
       "formatVersion": 2,
       "ideas": {
@@ -242,62 +387,11 @@
       "attr": {
         "style": {},
         "position": [
-          356.5,
-          -129.25,
-          25
+          -0.75,
+          461,
+          55
         ]
       }
-    },
-    "0.25": {
-      "title": "Teoria dos Grafos",
-      "formatVersion": 2,
-      "attr": {
-        "style": {},
-        "position": [
-          282.75,
-          -310.5,
-          26
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Usuarios",
-          "formatVersion": 2,
-          "attr": {
-            "style": {}
-          },
-          "ideas": {},
-          "id": 140
-        }
-      },
-      "id": 139
-    },
-    "-6": {
-      "title": "Marketing",
-      "formatVersion": 2,
-      "attr": {
-        "style": {},
-        "position": [
-          198.5,
-          -255.5,
-          27
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Troque um Clipse por um Porche",
-          "id": 178
-        },
-        "2": {
-          "title": "Filmes sobre trocas ?",
-          "id": 179
-        },
-        "3": {
-          "title": "Programas Estilo History ?",
-          "id": 180
-        }
-      },
-      "id": 141
     }
   },
   "links": [],
