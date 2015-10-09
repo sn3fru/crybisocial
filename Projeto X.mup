@@ -1,0 +1,283 @@
+{
+  "title": "Projeto X",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Lista de Desejos",
+      "formatVersion": 2,
+      "ideas": {
+        "1": {
+          "title": "Bounth Hunters",
+          "formatVersion": 2,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {},
+          "id": 132
+        }
+      },
+      "id": 5,
+      "attr": {
+        "style": {},
+        "position": [
+          120.10617599999978,
+          -194.39391999999998,
+          10
+        ]
+      }
+    },
+    "2": {
+      "title": "Formas de Monetizar",
+      "formatVersion": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          174.63212799999974,
+          -12.990272000000004,
+          11
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "B2C",
+          "formatVersion": 2,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Cobrar por nó",
+              "formatVersion": 2,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 138
+            }
+          },
+          "id": 137
+        },
+        "2": {
+          "title": "B2B",
+          "formatVersion": 2,
+          "attr": {
+            "style": {},
+            "position": [
+              154.140672,
+              97.51756799999998,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Inserir Produtos Fora de Linha dosGrandes Varejistas",
+              "formatVersion": 2,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 172
+            }
+          },
+          "id": 171
+        }
+      },
+      "id": 136
+    },
+    "3": {
+      "title": "Marketing",
+      "formatVersion": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          144.2234239999998,
+          124.37318400000004,
+          13
+        ]
+      },
+      "ideas": {},
+      "id": 141
+    },
+    "-1": {
+      "title": "Produtos Oferecidos",
+      "formatVersion": 2,
+      "ideas": {
+        "1": {
+          "title": "Arvore de Produtos Dinamica",
+          "formatVersion": 2,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {},
+          "id": 134
+        }
+      },
+      "id": 133,
+      "attr": {
+        "style": {},
+        "position": [
+          70.79494400000021,
+          -198.58822400000008,
+          9
+        ]
+      }
+    },
+    "-2": {
+      "title": "Teoria dos Grafos",
+      "formatVersion": 2,
+      "attr": {
+        "style": {},
+        "position": [
+          274.49004800000057,
+          -89.53631999999993,
+          12
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Usuarios",
+          "formatVersion": 2,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {},
+          "id": 140
+        }
+      },
+      "id": 139
+    },
+    "-3": {
+      "title": "Usuarios",
+      "formatVersion": 2,
+      "ideas": {
+        "2": {
+          "title": "Desejam Produtos",
+          "formatVersion": 2,
+          "attr": {
+            "style": {},
+            "position": [
+              123.20934399999987,
+              -84.93465600000013,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Usuarios",
+              "formatVersion": 2,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Usuarios",
+                  "formatVersion": 2,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {},
+                  "id": 147
+                }
+              },
+              "id": 146
+            }
+          },
+          "id": 145
+        },
+        "12": {
+          "title": "Oferem produtos",
+          "formatVersion": 2,
+          "attr": {
+            "style": {},
+            "position": [
+              162.61804800000027,
+              -6.2914559999999256,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Usuarios",
+              "formatVersion": 2,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 144
+            }
+          },
+          "id": 143
+        },
+        "13": {
+          "title": "Reputação",
+          "formatVersion": 2,
+          "attr": {
+            "style": {},
+            "position": [
+              58.15743999999995,
+              165.67500799999993,
+              5
+            ]
+          },
+          "ideas": {
+            "3": {
+              "title": "Indices",
+              "formatVersion": 2,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Indice de Desistencia",
+                  "formatVersion": 2,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {},
+                  "id": 163
+                },
+                "2": {
+                  "title": "Indice de Qualificações",
+                  "formatVersion": 2,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {},
+                  "id": 164
+                }
+              },
+              "id": 162
+            },
+            "4": {
+              "title": "Volume de Negocios",
+              "id": 166,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Distancia máxima",
+              "id": 169
+            },
+            "6": {
+              "title": "Volume de Negocios",
+              "id": 170
+            }
+          },
+          "id": 151
+        }
+      },
+      "id": 142,
+      "attr": {
+        "style": {},
+        "position": [
+          89.60902400000032,
+          119.13030400000002,
+          8
+        ]
+      }
+    }
+  },
+  "links": []
+}
