@@ -172,115 +172,144 @@
       "title": "Usuarios",
       "formatVersion": 2,
       "ideas": {
-        "2": {
-          "title": "Desejam Produtos",
-          "formatVersion": 2,
-          "attr": {
-            "style": {},
-            "position": [
-              143.5,
-              -237,
-              11
-            ]
-          },
+        "12.9375": {
+          "title": "Produtos",
+          "id": 193,
           "ideas": {
             "1": {
-              "title": "Lista de Desejos",
-              "formatVersion": 2,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {},
-              "id": 146
-            }
-          },
-          "id": 145
-        },
-        "12": {
-          "title": "Oferem produtos",
-          "formatVersion": 2,
-          "attr": {
-            "style": {},
-            "position": [
-              303.25,
-              -12.5,
-              10
-            ]
-          },
-          "ideas": {
-            "1": {
-              "title": "Serviços",
+              "title": "Oferem produtos",
               "formatVersion": 2,
               "attr": {
                 "style": {},
                 "position": [
-                  167.75,
-                  -145,
-                  2
+                  175.9843749999999,
+                  -30.257812500000114,
+                  23
                 ]
               },
-              "ideas": {},
-              "id": 144
-            },
-            "2": {
-              "title": "Produtos",
-              "id": 174,
               "ideas": {
                 "1": {
-                  "title": "Apenas Venda",
-                  "id": 175
+                  "title": "Serviços",
+                  "formatVersion": 2,
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      167.75,
+                      -145,
+                      2
+                    ]
+                  },
+                  "ideas": {},
+                  "id": 144
                 },
                 "2": {
-                  "title": "Apenas Troca",
-                  "id": 176
+                  "title": "Produtos",
+                  "id": 174,
+                  "ideas": {
+                    "1": {
+                      "title": "Apenas Venda",
+                      "id": 175
+                    },
+                    "2": {
+                      "title": "Apenas Troca",
+                      "id": 176
+                    },
+                    "3": {
+                      "title": "Misto",
+                      "id": 177
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      160,
+                      115,
+                      1
+                    ],
+                    "style": {}
+                  }
                 },
                 "3": {
-                  "title": "Misto",
-                  "id": 177
+                  "title": "Lojas",
+                  "id": 182,
+                  "ideas": {
+                    "1": {
+                      "title": "As pessoas podem criar \"lojas\" dentro do App, os outros podem barganhar ",
+                      "id": 183
+                    }
+                  }
                 }
               },
-              "attr": {
-                "position": [
-                  160,
-                  115,
-                  1
-                ],
-                "style": {}
-              }
+              "id": 143
             },
-            "3": {
-              "title": "Lojas",
-              "id": 182,
+            "0.5": {
+              "title": "Desejam Produtos",
+              "formatVersion": 2,
+              "attr": {
+                "style": {},
+                "position": [
+                  77.24999999999989,
+                  -198.4374999999999,
+                  24
+                ]
+              },
               "ideas": {
                 "1": {
-                  "title": "As pessoas podem criar \"lojas\" dentro do App, os outros podem barganhar ",
-                  "id": 183
+                  "title": "Lista de Desejos",
+                  "formatVersion": 2,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {},
+                  "id": 146
                 }
-              }
+              },
+              "id": 145
             }
           },
-          "id": 143
+          "attr": {
+            "position": [
+              142.1875,
+              -139.0625,
+              22
+            ],
+            "style": {}
+          }
         },
-        "13": {
+        "12.953125": {
           "title": "Reputacao",
           "formatVersion": 2,
           "attr": {
             "style": {},
             "position": [
-              97,
-              353.75,
-              8
+              190,
+              242.1875,
+              21
             ]
           },
           "ideas": {
-            "3": {
+            "4": {
+              "title": "Volume de Negocios",
+              "id": 166,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Distancia mÃ¡xima",
+              "id": 169
+            },
+            "6": {
+              "title": "Volume de Negocios",
+              "id": 170
+            },
+            "16": {
               "title": "Indices",
               "formatVersion": 2,
               "attr": {
                 "style": {},
                 "position": [
-                  109,
-                  -152.5,
+                  33.5,
+                  128.125,
                   1
                 ]
               },
@@ -305,40 +334,18 @@
                 }
               },
               "id": 162
-            },
-            "4": {
-              "title": "Volume de Negocios",
-              "id": 166,
-              "attr": {
-                "style": {}
-              }
-            },
-            "5": {
-              "title": "Distancia mÃ¡xima",
-              "id": 169
-            },
-            "6": {
-              "title": "Volume de Negocios",
-              "id": 170
             }
           },
           "id": 151
-        },
-        "12.5": {
-          "title": "Exigência de CPF é importante para usar mesmo o serviço free. Mandar um documentos para serviços premium (risco moral) ",
-          "id": 191,
-          "attr": {
-            "style": {}
-          }
         }
       },
       "id": 142,
       "attr": {
         "style": {},
         "position": [
-          246.5,
-          4.25,
-          45
+          159.3125,
+          18.249999999999773,
+          64
         ]
       }
     },
@@ -348,9 +355,9 @@
       "attr": {
         "style": {},
         "position": [
-          64,
-          -321.75,
-          58
+          9.3125,
+          -439.5625000000001,
+          63
         ]
       },
       "ideas": {
@@ -360,8 +367,8 @@
           "attr": {
             "style": {},
             "position": [
-              100.75,
-              -482.5,
+              67.15625,
+              -486.3281249999999,
               1
             ]
           }
@@ -391,6 +398,19 @@
           461,
           55
         ]
+      }
+    },
+    "-23": {
+      "title": "Cadastro",
+      "id": 196,
+      "ideas": {
+        "1": {
+          "title": "Exigência de CPF é importante para usar mesmo o serviço free. Mandar um documentos para serviços premium (risco moral) ",
+          "id": 191,
+          "attr": {
+            "style": {}
+          }
+        }
       }
     }
   },
